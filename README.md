@@ -8,7 +8,7 @@ A ferramenta permite que o usuário selecione um dos estilos musicais disponíve
 
 ## Tecnologias utilizadas
 - Linguagem de programação Java
-- Padrões de projeto Observer, Factory Method e Singleton
+- Padrões de projeto Observer, Factory Method e Decorator
 
 ## Como executar o projeto
 Para executar o projeto, siga os seguintes passos:
